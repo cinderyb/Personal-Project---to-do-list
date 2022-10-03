@@ -1,0 +1,47 @@
+
+
+.container{
+  padding: 3%;
+}
+
+body{
+  text-align: left;
+  background-color:#D98D62;
+}
+
+.heading{
+  color:#1F4C73;
+  font-size: 5rem;
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+ul{
+  list-style-type: none;
+  padding-top: 3%;
+}
+
+li{
+  padding: 1% 0;
+  font-family: 'Just Another Hand', cursive;
+  font-size: 2rem;
+}
+
+.btn{
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 2REM;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#taskInput{
+  font-family: 'Just Another Hand', cursive;
+  font-size: 2REM;
+  border-width: 2px;
+  text-align: center;
+  border-color: #1F4C73;
+  border-radius: 4px;
+  width: 80%;
+  padding: 5px 0px;
+  margin: 8px 0;
+  vertical-align: middle;
+}
