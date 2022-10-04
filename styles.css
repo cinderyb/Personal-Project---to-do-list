@@ -17,11 +17,10 @@ body{
 
 ul{
   list-style-type: none;
-  padding-top: 3%;
+  padding: 3% 0;
 }
 
 li{
-  padding: 1% 0;
   font-family: 'Just Another Hand', cursive;
   font-size: 2rem;
 }
@@ -55,4 +54,8 @@ li{
 .input-fields{
   justify-content: space-between;
   display:flex;
+}
+
+.task-container{
+padding-right: 20%;
 }
