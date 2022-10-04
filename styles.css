@@ -44,4 +44,9 @@ li{
   padding: 5px 0px;
   margin: 8px 0;
   vertical-align: middle;
+  display: inline-block;
+}
+
+#checkboxNoLabel{
+  display:inline-block;
 }
